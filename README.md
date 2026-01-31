@@ -1,7 +1,7 @@
 [![Samson's Github Banner](./assets/readme_hero.png)](https://github.com/samzyconcepts/)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/TheFireAndCode)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/code-victor/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://x.com/Cre8veSam)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/samsonoderinwale/)
 [![Gmail](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail)](mailto:oderinwalesamson1@gmail.com)
 
 Hey there 👋
@@ -12,16 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://samzydev.vercel.ap
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
-
-<div style="display:flex;gap:20px;flex-wrap:wrap">
-  <a href="https://github.com/samzyconcepts">
-    <img align="center" style="margin:0.5rem;display:inline" src="https://github-readme-stats.vercel.app/api?username=samzyconcepts&show_icons=true&line_height=27&count_private=true&theme=nightowl" alt="Samson's github Stats" />
-  </a>
-  <a href="https://github.com/samzyconcepts">
-    <img align="center" style="margin:0.5rem;display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samzyconcepts&hide=html&theme=nightowl&layout=compact" alt="Samson's github Stats" />
-  </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=samzyconcepts&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
 ## 💼 Skills
 
@@ -34,7 +25,6 @@ Want to know more about me? [Check out my portfolio.](https://samzydev.vercel.ap
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
-![Apollo GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=Apollo+GraphQL&color=311C87&logo=Apollo+GraphQL&logoColor=FFFFFF&label=)
 ![Storybook](https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=)
 ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
 ![React Query](https://img.shields.io/static/v1?style=for-the-badge&message=React+Query&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=)
